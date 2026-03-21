@@ -1,2 +1,3 @@
-# mini-analytics-dashboard-tgpj
+# Mini Analytics Dashboard Tgpj
+
 A analytics dashboard for modern development workflows.
